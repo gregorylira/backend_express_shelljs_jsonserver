@@ -1,0 +1,20 @@
+{
+  "cofiguracoes": [
+    {
+      "id": "1",
+      "name": "config_gerais",
+      "value": "0"
+    },
+    {
+      "id": "2",
+      "name": "config_luzes",
+      "value": 0
+    },
+    {
+      "name": "teste5",
+      "value": "10",
+      "newTest": "090",
+      "id": "tcIb4jD"
+    }
+  ]
+}
